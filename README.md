@@ -1,6 +1,6 @@
 # hey, i'm deb 👋
 
-> Still figuring out programming 👾| Bugs are just features in disguise 🐛 | fps gamer by night 🎮
+> hey, glad you're here 👋 | turning logic into code, one semicolon at a time | cse freshman on a mission 💻
 
 ---
 
