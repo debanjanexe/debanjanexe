@@ -1,4 +1,4 @@
-# hey, i'm deb 👋
+# hey, i'm Deb 👋
 
 > hey, glad you're here 👋 | turning logic into code, one semicolon at a time | cse freshman on a mission 💻
 
