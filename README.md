@@ -1,6 +1,6 @@
 # hey, i'm deb 👋
 
-> *still figuring out programming but make it fashion* 🐛 | fps gamer by night 🎮
+> *still figuring out programming 👾| Bugs are just features in disguise 🐛 | fps gamer by night 🎮
 
 ---
 
