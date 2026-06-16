@@ -9,8 +9,8 @@
 - 💻 learning to turn coffee into code
 - 🐛 bugs are just features in disguise
 - 🎮 fps gamer when the compiler wins
-- 🌱 currently learning: **C** and **C++**
-- ⚡ fun fact: my K/D ratio > my GPA (for now)
+- 🌱 currently learning: **C++**
+
 
 ---
 
