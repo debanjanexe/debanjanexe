@@ -26,7 +26,7 @@
 
 ### 📊 github stats
 
-![Debanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Debanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=debanjanexe&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
