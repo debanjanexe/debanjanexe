@@ -5,7 +5,6 @@
 ---
 
 ### 👾 about me
-
 - 🎓 1st year B.Tech CSE student @ **IEM Salt Lake**, Kolkata
 - 💻 learning to turn coffee into code
 - 🐛 bugs are just features in disguise
@@ -16,16 +15,15 @@
 ---
 
 ### 🛠️ tools & tech
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📊 github stats
-
 ![Debanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=debanjanexe&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
