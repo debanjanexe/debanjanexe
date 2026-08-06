@@ -8,7 +8,7 @@
 - 🎓 1st year B.Tech CSE student @ **IEM Salt Lake**, Kolkata
 - 💻 learning to turn coffee into code
 - 🐛 bugs are just features in disguise
-- 🎮 fps gamer when the compiler wins
+- 🎮 fps gamer when the compiler win
 - 🌱 currently learning: **C++**
 
 
